@@ -1,8 +1,10 @@
 ### Routes
-- svelter have a file-bases-system routing
 
-- Normal rotuing is used on about and contact
+- SvelteKit has a file-based routing system.
 
-- Nested routes is used on blog
+- The "about" and "contact" folders are used for normal routing.
 
+- The "blog" folder is used for nested routes.
+
+- The "products" folder is used for dynamic routes.
 
